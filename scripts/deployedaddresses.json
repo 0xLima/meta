@@ -1,0 +1,6 @@
+{
+  "Token:opbnb_testnet": "0xc8b56921be2a7718d6712ada4f8660bda6608c13",
+  "PythOracle:opbnb_testnet": "0xf62f78baa171656907bac644991a81b3bca8d05f",
+  "Oracle:opbnb_testnet": "0x4ed5a5fcb6524373a715ee7965e7c45274697c14",
+  "Token:sepolia": "0xf62f78baa171656907bac644991a81b3bca8d05f"
+}
